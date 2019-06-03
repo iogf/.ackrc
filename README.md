@@ -1,0 +1,2 @@
+# .ackrc
+My ackrc file.
